@@ -1,4 +1,4 @@
-# appiness-vue
+# Appiness-Vue
 
 ## Project setup
 ```
